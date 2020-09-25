@@ -10,7 +10,7 @@
 
     Font-size: 25px;
 
-    color: black;
+    color: white;
 
     font-family: 'Oswald', sans-serif;
 
@@ -26,9 +26,12 @@
    
 }
 
-.img-1 {
-    width: 75%;
-    height: 500px;
-    padding-top: 10px;
-
+body {
+    background-image:url("https://via.tt.se/data/images/00531/399e9049-37a1-4bab-a0b5-6349cabe2fe6.png");
+    background-size:100%;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+    
 }
