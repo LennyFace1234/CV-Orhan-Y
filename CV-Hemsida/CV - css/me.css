@@ -1,3 +1,13 @@
+body {
+    background-image:url("https://cutewallpaper.org/21/dark-website-backgrounds/Background-patterns-web-dark-website-blogger-beautiful-image-.jpg");
+    background-size:100%;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
 .länkar-1 {
     display: flex;
     display: inline-block;
@@ -10,9 +20,10 @@
 
     Font-size: 25px;
 
-    color: black;
+    color: white;
 
     font-family: 'Oswald', sans-serif;
+
 }
 
 .titel-1 {
@@ -22,22 +33,27 @@
     padding-top: 10%;
 
     font-family: 'Oswald', sans-serif;
+    color: white;
    
 }
 
 .paragraf {
     font-family: 'Oswald', sans-serif;
-    
-    padding-left: 300px;
 
     font-size: 20px;
-    
+    color: white;
+
     
 }
 
 .bild {
     width: 550px;
     height: 400px;
+    padding-left: 2rem;
+    padding-top: 1rem;
     
+    filter: grayscale(100%);
 }
+
+body {background-color: black;}
 

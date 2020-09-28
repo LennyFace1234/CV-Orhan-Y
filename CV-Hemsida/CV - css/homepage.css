@@ -1,6 +1,6 @@
  
  body {
-        background-image:url("https://i.pinimg.com/originals/72/a1/84/72a184aa7846cad0d5a82cf55dc3f406.jpg");
+        background-image:url("https://cutewallpaper.org/21/dark-website-backgrounds/Background-patterns-web-dark-website-blogger-beautiful-image-.jpg");
         background-size:100%;
         background-position: center;
         background-repeat: repeat-y;
@@ -21,7 +21,7 @@
 
     Font-size: 25px;
 
-    color: black;
+    color: white;
 
     font-family: 'Oswald', sans-serif;
 }
@@ -35,6 +35,8 @@
     font-family: 'Oswald', sans-serif;
    
     font-size: 35px;
+
+    color: white;
 }
 
 .titel-2 {
@@ -42,4 +44,6 @@
     justify-content: center;
 
     font-family: 'Oswald', sans-serif;
+
+    color: white;
 }

@@ -10,7 +10,7 @@
 
     Font-size: 25px;
 
-    color: black;
+    color: white;
 
     font-family: 'Oswald', sans-serif;
 }
@@ -23,6 +23,7 @@
 
     font-family: 'Oswald', sans-serif;
    
+    color: white;
 }
 
 
@@ -40,6 +41,7 @@
     padding-left: 450px;
     padding-right: 450px;
    
+    color: white;
 }
 
 .kurser {
@@ -56,4 +58,8 @@
     padding-right: 80px;
 
     font-size: 20px;
+
+    color: white;
 }
+
+body {background-color: black;}
